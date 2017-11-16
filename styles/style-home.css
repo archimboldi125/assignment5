@@ -1,0 +1,76 @@
+
+body {background-image: url(../images/paul-otlet%20copy.jpg);
+background-attachment: fixed;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color:#DEAF4F;
+  margin-top: 100px;
+  }
+
+.topnav a {
+  float:left;
+  display: inline;
+  color: #1F4D8C;
+  margin-left: 25px;
+  margin-bottom: 0;
+  text-align:right;
+  text-decoration:none;
+  padding: 20px 10px;
+  font-size: 30px;
+  font-family:'Hind Guntur', sans-serif;}
+
+.topnav a:hover {
+  background-color:#EDADCE;
+  color: #2A5EA9;
+}
+
+.pindex {background-color: #2A5EA9;
+width: 250px;
+font-size: 60px;
+padding-left: 20px;
+font-family:'Hind Guntur', sans-serif;
+color: #E5A8C8;}
+
+/*
+.name, .lastname, .title {display: inline;
+  float: left;
+margin-right: 20px;} */
+
+.pabout {background-color: #2A5EA9;
+width: 300px;
+font-size: 28px;
+padding-left: 20px;
+padding-right: 20px;
+font-family:'Hind Guntur', sans-serif;
+color: #E5A8C8;
+margin-top: 62px;
+margin-bottom: 62px;
+line-height: 25px;}
+
+.aboutme{
+float:left;
+border: 3px solid #1F4D8C;
+margin-left:125px;}
+
+.contactinfo{
+float:right;
+border: 3px solid #1F4D8C;
+margin-right: 125px;}
+
+h2 {text-decoration-line: underline;
+  text-decoration-color:  #DEAF4F;
+  line-height: 40PX;
+ }
+
+.icon {color:#DEAF4F;
+  margin-bottom: 15px;
+font-family:'Hind Guntur', sans-serif;
+}
+
+.picon {display: inline;
+margin-left: 20px;}
+
+
+
